@@ -1,18 +1,24 @@
- # Introduction to ASP.NET for JavaScript Devs: Building My First Barber App (FYLA: Find Your Local Artist)
+# Introduction to ASP.NET for JavaScript Devs: Building My First Barber App (FYLA: Find Your Local Artist)
 
- ### By: Fernando Martinez
+### By: Fernando Martinez
 
 Hey everyone! 👋
 
-I’m Fernando, a full-stack developer and Marcy Fellow currently working on my capstone project for the final project of the curriculum. I’ve been building web apps for a while now, mostly using JavaScript and its ecosystem. But for this project, I wanted to step out of my comfort zone and try something different: ASP.NET with C#.
+I'm Fernando, a full-stack developer and Marcy Fellow currently working on my capstone project for the final project of the curriculum. I've been building web apps for a while now, mostly using JavaScript and its ecosystem. But for this project, I wanted to step out of my comfort zone and try something different: ASP.NET with C#.
 
-I’ve mostly worked with JavaScript, React, Node.js, and Express. But for my capstone project, which is a mobile app for barbers and beauty professionals, I decided to try something new. I picked ASP.NET with C# for my backend. I’m still early in the process, but here’s what I’ve learned so far, and how it compares to the JavaScript stack I’m used to.
+I've mostly worked with JavaScript, React, Node.js, and Express. But for my capstone project, which is a mobile app for barbers and beauty professionals, I decided to try something new. I picked ASP.NET with C# for my backend. I'm still early in the process, but here's what I've learned so far, and how it compares to the JavaScript stack I'm used to.
 
 ---
 
-## Why I’m Learning ASP.NET
+## Why I'm Learning ASP.NET
 
-ASP.NET is an open-source web framework created by Microsoft. It’s mostly used with C# and is known for being fast, secure, and good for large-scale apps. Being open-source is a great thing because it means there’s a lot of community support and resources available, which is super helpful when you’re learning something new.
+![.NET Logo](images/NET-Logo.svg)
+
+I'm Fernando, a full-stack developer and Marcy Fellow currently working on my capstone project for the final project of the curriculum. I've been building web apps for a while now, mostly using JavaScript and its ecosystem. But for this project, I wanted to step out of my comfort zone and try something different: ASP.NET with C#.
+
+I've mostly worked with JavaScript, React, Node.js, and Express. But for my capstone project, which is a mobile app for barbers and beauty professionals, I decided to try something new. I picked ASP.NET with C# for my backend. I'm still early in the process, but here's what I've learned so far, and how it compares to the JavaScript stack I'm used to.
+
+---
 
 ### Why I Think It’s Worth Learning:
 
@@ -125,6 +131,8 @@ This works the same way it would with Express—make a request, get a JSON respo
 ---
 
 ## ASP.NET vs. Express.js
+
+![C# vs JavaScript](images/JavaScript-vs-C-Sharp-min.png)
 
 | Feature           | ASP.NET Core     | Express.js                   |
 | ----------------- | ---------------- | ---------------------------- |
