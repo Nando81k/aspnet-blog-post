@@ -162,7 +162,7 @@ ASP.NET gives you more structure. Express gives you more freedom. One isn’t be
 3. Learn basic C# concepts like classes, types, and methods.
 4. Try Swagger—it’s a tool that lets you test your endpoints easily.
 5. Keep comparing things to JavaScript—it helped me learn faster.
-6 (THE BIG ONE). If you struggle with strict typing, try learning TypeScript first. It’ll make the transition smoother since TypeScript is statically typed, like C# but with a syntax similar to JavaScript.
+6. (THE BIG ONE). If you struggle with strict typing, try learning TypeScript first. It’ll make the transition smoother since TypeScript is statically typed, like C# but with a syntax similar to JavaScript.
 
 ---
 
