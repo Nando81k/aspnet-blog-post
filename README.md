@@ -4,7 +4,7 @@
 
 Hey everyone! 👋
 
-I’m Fernando, a full-stack developer and Marcy Fellow currently working on my capstone project for a coding bootcamp. I’ve been building web apps for a while now, mostly using JavaScript and its ecosystem. But for this project, I wanted to step out of my comfort zone and try something different: ASP.NET with C#.
+I’m Fernando, a full-stack developer and Marcy Fellow currently working on my capstone project for the final project of the curriculum. I’ve been building web apps for a while now, mostly using JavaScript and its ecosystem. But for this project, I wanted to step out of my comfort zone and try something different: ASP.NET with C#.
 
 I’ve mostly worked with JavaScript, React, Node.js, and Express. But for my capstone project, which is a mobile app for barbers and beauty professionals, I decided to try something new. I picked ASP.NET with C# for my backend. I’m still early in the process, but here’s what I’ve learned so far, and how it compares to the JavaScript stack I’m used to.
 
